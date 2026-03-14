@@ -1,0 +1,16 @@
+[
+{
+  "modid": "QuantumCheat",
+  "name": "QuantumCheat",
+  "description": "QuantumCheat, powerfull and easy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rgbledard"],
+  "credits": "Rgbledard",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

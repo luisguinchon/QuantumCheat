@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cheatclient",
+  "name": "Cheat Client",
+  "description": "Client cheat educatif - ESP, Fly, Noclip, Xray, Autoclick, PVP. Usage prive uniquement.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CheatClient"],
+  "credits": "A but educatif - serveur prive avec amis uniquement",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
